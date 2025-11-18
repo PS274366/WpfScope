@@ -1,1 +1,3 @@
 # WpfScope
+
+C# voorbeeld
