@@ -1,0 +1,27 @@
+{
+  "name": "wpfscope",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "typescript",
+    "ts"
+  ],
+  "homepage": "https://github.com/PS274366/WpfScope#readme",
+  "bugs": {
+    "url": "https://github.com/PS274366/WpfScope/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PS274366/WpfScope.git"
+  },
+  "license": "Apache-2.0",
+  "author": "marc2h9",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
